@@ -14,7 +14,7 @@
     "stats",
     "statistics"
   ],
-  "version": "0.8.0",
+  "version": "0.8.1",
   "license": "MIT",
   "author": "Peter Elger (http://nearform.com/)",
   "contributors": [
@@ -28,7 +28,7 @@
     "docker-allcontainers": "^0.8.0",
     "minimist": "^1.1.1",
     "never-ending-stream": "^2.0.0",
-    "pump": "^2.0.0",
+    "pump": "^3.0.0",
     "split2": "^2.2.0",
     "through2": "^2.0.1"
   },
